@@ -1,0 +1,4 @@
+Contoso Product Overview - Internal only
+Change request CR-227 updates the Halcyon pump controller specification.
+CR-228 and CR-231 are pending approval. Confidential - do not share outside Contoso.
+Reference numbers like CR-12 or CR-1234 should not match.
